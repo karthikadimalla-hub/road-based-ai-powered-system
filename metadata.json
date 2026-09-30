@@ -1,0 +1,10 @@
+{
+  "name": "RoadSafe India – AI-Powered Road Safety Reporting System",
+  "description": "Civic-tech road safety reporting system for Indian citizens. Uses Gemini AI to categorize hazards, detect duplicates, and transparently prioritize road safety repairs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
